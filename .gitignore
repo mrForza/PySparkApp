@@ -3,3 +3,5 @@
 .pycache
 .env
 __pycache__
+.gitignore
+db.sqlite
